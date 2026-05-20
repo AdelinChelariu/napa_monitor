@@ -8,13 +8,14 @@ namespace NapaMonitor.Services;
 public class AiService
 {
     private readonly HttpClient _httpClient;
-    private readonly string _apiKey;
-    private const string ApiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
+    private const string ApiUrl = "https://api.groq.com/openai/v1/chat/completions";
+    private const string Model = "llama-3.1-8b-instant";
 
     public AiService(string apiKey)
     {
         _httpClient = new HttpClient();
-        _apiKey = apiKey;
+        _httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
+        _httpClient.Timeout = TimeSpan.FromSeconds(60);
     }
 
     public async Task<string> AnalyzeMetricsAsync(List<MetricSnapshot> snapshots)
@@ -24,42 +25,52 @@ public class AiService
 
         var requestBody = new
         {
-            contents = new[]
+            model = Model,
+            messages = new[]
             {
                 new
                 {
-                    parts = new[]
-                    {
-                        new { text = prompt }
-                    }
+                    role = "system",
+                    content = "You are a PostgreSQL database monitoring assistant. Be concise and practical."
+                },
+                new
+                {
+                    role = "user",
+                    content = prompt
                 }
-            }
+            },
+            max_tokens = 1024,
+            temperature = 0.7
         };
 
         var json = JsonSerializer.Serialize(requestBody);
         var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-        var response = await _httpClient.PostAsync($"{ApiUrl}?key={_apiKey}", content);
+        var response = await _httpClient.PostAsync(ApiUrl, content);
         var responseJson = await response.Content.ReadAsStringAsync();
 
         using var doc = JsonDocument.Parse(responseJson);
+
+        if (doc.RootElement.TryGetProperty("error", out var error))
+        {
+            var message = error.GetProperty("message").GetString();
+            return $"Groq API error: {message}";
+        }
+
         return doc.RootElement
-                  .GetProperty("candidates")[0]
+                  .GetProperty("choices")[0]
+                  .GetProperty("message")
                   .GetProperty("content")
-                  .GetProperty("parts")[0]
-                  .GetProperty("text")
                   .GetString() ?? "No response received.";
     }
 
     private string BuildPrompt(MetricSnapshot latest, List<MetricSnapshot> history)
     {
         var sb = new StringBuilder();
-        sb.AppendLine("You are a PostgreSQL database monitoring assistant.");
-        sb.AppendLine("Analyze the following metrics and provide:");
+        sb.AppendLine("Analyze the following PostgreSQL metrics and provide:");
         sb.AppendLine("1. A brief health summary");
         sb.AppendLine("2. Any concerns or anomalies");
-        sb.AppendLine("3. Specific optimization suggestions if needed");
-        sb.AppendLine("Keep the response concise and practical.\n");
+        sb.AppendLine("3. Specific optimization suggestions if needed\n");
 
         sb.AppendLine("=== LATEST SNAPSHOT ===");
         sb.AppendLine($"Timestamp: {latest.Timestamp:yyyy-MM-dd HH:mm:ss} UTC");

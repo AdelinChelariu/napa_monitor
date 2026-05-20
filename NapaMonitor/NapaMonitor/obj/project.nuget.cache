@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6yhBE/gxnvaz191mKKem7nsm8ySqPAPWY/VNL7KDzEJ/7V6sDK+yAsuQqETL2s3t+VkQ9UzDZU8lRSJjOL878Q==",
+  "dgSpecHash": "r6gsv5ujXTdpK2GtXJguruU/eyQ3atoVJ2rskvSO4oJogeyJ2kjagMjXpooVFsktN5AJUy28uVNyurUk+cgDuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Adelin\\Desktop\\Napa\\napa_monitor\\NapaMonitor\\NapaMonitor\\NapaMonitor.csproj",
   "expectedPackageFiles": [
@@ -10,8 +10,17 @@
     "C:\\Users\\Adelin\\.nuget\\packages\\livechartscore\\2.1.0-dev-570\\livechartscore.2.1.0-dev-570.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\livechartscore.skiasharpview\\2.1.0-dev-570\\livechartscore.skiasharpview.2.1.0-dev-570.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\livechartscore.skiasharpview.wpf\\2.1.0-dev-570\\livechartscore.skiasharpview.wpf.2.1.0-dev-570.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\11.0.0-preview.4.26230.115\\microsoft.bcl.asyncinterfaces.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.abstractions.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.fileextensions.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.configuration.json\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.json.11.0.0-preview.4.26230.115.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\11.0.0-preview.4.26230.115\\microsoft.extensions.fileproviders.abstractions.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\11.0.0-preview.4.26230.115\\microsoft.extensions.fileproviders.physical.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\11.0.0-preview.4.26230.115\\microsoft.extensions.filesystemglobbing.11.0.0-preview.4.26230.115.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.4.26230.115\\microsoft.extensions.primitives.11.0.0-preview.4.26230.115.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\npgsql\\10.0.2\\npgsql.10.0.2.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\opentk\\3.3.1\\opentk.3.3.1.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\opentk.glwpfcontrol\\3.3.0\\opentk.glwpfcontrol.3.3.0.nupkg.sha512",
@@ -21,7 +30,14 @@
     "C:\\Users\\Adelin\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\skiasharp.views.desktop.common\\3.119.1\\skiasharp.views.desktop.common.3.119.1.nupkg.sha512",
     "C:\\Users\\Adelin\\.nuget\\packages\\skiasharp.views.wpf\\3.119.1\\skiasharp.views.wpf.3.119.1.nupkg.sha512",
-    "C:\\Users\\Adelin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.11\\system.diagnostics.diagnosticsource.9.0.11.nupkg.sha512"
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.11\\system.diagnostics.diagnosticsource.9.0.11.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.io.pipelines\\11.0.0-preview.4.26230.115\\system.io.pipelines.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.2\\system.runtime.compilerservices.unsafe.6.1.2.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.text.encodings.web\\11.0.0-preview.4.26230.115\\system.text.encodings.web.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.text.json\\11.0.0-preview.4.26230.115\\system.text.json.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\Adelin\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512"
   ],
   "logs": [
     {

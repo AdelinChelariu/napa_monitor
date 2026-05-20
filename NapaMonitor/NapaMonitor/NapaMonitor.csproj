@@ -10,12 +10,19 @@
 
     <ItemGroup>
       <PackageReference Include="LiveChartsCore.SkiaSharpView.WPF" Version="2.1.0-dev-570" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="11.0.0-preview.4.26230.115" />
       <PackageReference Include="Npgsql" Version="10.0.2" />
     </ItemGroup>
 
     <ItemGroup>
       <Folder Include="Data\" />
       <Folder Include="Views\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="appsettings.json">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
     </ItemGroup>
 
 </Project>
