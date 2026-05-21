@@ -1,0 +1,1002 @@
+[
+  {
+    "Timestamp": "2026-05-21T16:03:49.0194985Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:03:59.0822658Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:02.1936379Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:05.1916537Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:08.1919611Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:11.191804Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:14.2065403Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:17.1961053Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:20.1971109Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:23.2009887Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:26.2067356Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:29.1946121Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:32.1935458Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:35.1943129Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:38.2050165Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:41.2012713Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:44.19275Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:47.1952234Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:50.1921634Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:53.1944522Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:56.1927387Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:04:59.1949409Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:02.1926569Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:05.1933199Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:08.194771Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:11.1939358Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:14.2021681Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:17.2015666Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:20.200965Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:23.2047079Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:26.2049079Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:29.1936005Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:32.1960815Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:35.2057337Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:38.1979755Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:41.2059622Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:44.1939401Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:47.1919207Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:50.1927605Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:53.1926031Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:56.2070474Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:05:59.2042335Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:02.2026821Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:05.1941549Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:08.194664Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:11.1953785Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:14.1989544Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:17.2075989Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:20.1953812Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:23.195025Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:26.1993248Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:29.1935037Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:32.1949603Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:35.204738Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:38.1992582Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:41.1991148Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:44.1964311Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:47.1934819Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:50.1992169Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:53.1932915Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:56.1951262Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:06:59.1962399Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:07:02.1918532Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:46.8672566Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:49.4047743Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:51.4037228Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:53.404917Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:55.4067905Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:57.4158278Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:13:59.4111341Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T16:16:23.4131753Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:08.3560335Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:11.3859348Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:13.3878348Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:15.3844306Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:17.3940614Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:19.3954468Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:21.3859419Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:23.398068Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:25.3913212Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:27.3948849Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:29.3839067Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:31.3927439Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:33.3847766Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:35.3944434Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:37.3829545Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:39.3828055Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:41.3832342Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:43.3826963Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:45.381761Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:47.3821469Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:49.3848613Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:46:51.3901427Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:48:43.7705073Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:49:14.5786434Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:49:44.5758424Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:50:14.5765188Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:54:03.6656776Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:54:34.4058584Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-21T19:55:04.4047615Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  }
+]

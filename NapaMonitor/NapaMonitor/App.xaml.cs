@@ -17,9 +17,7 @@ public partial class App : Application
             .Build();
 
         var connectionString = config["Database:ConnectionString"]!;
-        var geminiApiKey = config["Groq:ApiKey"]!;
-
-        var viewModel = new MainViewModel(connectionString, geminiApiKey);
+        var viewModel = new MainViewModel(connectionString);
 
         var mainWindow = new MainWindow(viewModel);
         mainWindow.Show();

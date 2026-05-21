@@ -4378,5 +4378,25 @@
     "TransactionsRolledBack": 0,
     "CacheHitRatio": 100,
     "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-20T20:11:27.8740313Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
+  },
+  {
+    "Timestamp": "2026-05-20T20:11:58.8642938Z",
+    "ActiveConnections": 1,
+    "MaxConnections": 100,
+    "DatabaseSizeMb": 7.8961782455444336,
+    "TransactionsCommited": 0,
+    "TransactionsRolledBack": 0,
+    "CacheHitRatio": 100,
+    "SlowQueries": []
   }
 ]

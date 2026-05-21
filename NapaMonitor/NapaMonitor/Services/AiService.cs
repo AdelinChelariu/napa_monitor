@@ -8,14 +8,13 @@ namespace NapaMonitor.Services;
 public class AiService
 {
     private readonly HttpClient _httpClient;
-    private const string ApiUrl = "https://api.groq.com/openai/v1/chat/completions";
-    private const string Model = "llama-3.1-8b-instant";
+    private const string ApiUrl = "http://localhost:11434/api/generate";
+    private const string Model = "llama3.2";
 
-    public AiService(string apiKey)
+    public AiService()
     {
         _httpClient = new HttpClient();
-        _httpClient.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
-        _httpClient.Timeout = TimeSpan.FromSeconds(60);
+        _httpClient.Timeout = TimeSpan.FromSeconds(120);
     }
 
     public async Task<string> AnalyzeMetricsAsync(List<MetricSnapshot> snapshots)
@@ -26,21 +25,8 @@ public class AiService
         var requestBody = new
         {
             model = Model,
-            messages = new[]
-            {
-                new
-                {
-                    role = "system",
-                    content = "You are a PostgreSQL database monitoring assistant. Be concise and practical."
-                },
-                new
-                {
-                    role = "user",
-                    content = prompt
-                }
-            },
-            max_tokens = 1024,
-            temperature = 0.7
+            prompt = prompt,
+            stream = false
         };
 
         var json = JsonSerializer.Serialize(requestBody);
@@ -52,25 +38,22 @@ public class AiService
         using var doc = JsonDocument.Parse(responseJson);
 
         if (doc.RootElement.TryGetProperty("error", out var error))
-        {
-            var message = error.GetProperty("message").GetString();
-            return $"Groq API error: {message}";
-        }
+            return $"Ollama error: {error.GetString()}";
 
         return doc.RootElement
-                  .GetProperty("choices")[0]
-                  .GetProperty("message")
-                  .GetProperty("content")
+                  .GetProperty("response")
                   .GetString() ?? "No response received.";
     }
 
     private string BuildPrompt(MetricSnapshot latest, List<MetricSnapshot> history)
     {
         var sb = new StringBuilder();
-        sb.AppendLine("Analyze the following PostgreSQL metrics and provide:");
+        sb.AppendLine("You are a PostgreSQL database monitoring assistant.");
+        sb.AppendLine("Analyze the following metrics and provide:");
         sb.AppendLine("1. A brief health summary");
         sb.AppendLine("2. Any concerns or anomalies");
-        sb.AppendLine("3. Specific optimization suggestions if needed\n");
+        sb.AppendLine("3. Specific optimization suggestions if needed");
+        sb.AppendLine("Keep the response concise and practical.\n");
 
         sb.AppendLine("=== LATEST SNAPSHOT ===");
         sb.AppendLine($"Timestamp: {latest.Timestamp:yyyy-MM-dd HH:mm:ss} UTC");
