@@ -67,7 +67,7 @@ All metrics are read from PostgreSQL system views — no extensions or external 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/napa-monitor.git
+git clone https://github.com/AdelinChelariu/napa-monitor.git
 cd napa-monitor
 ```
 
