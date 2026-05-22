@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NapaMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36bbde824e381f0f29b1bce38abf73c6e64d4454")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df94904f89410ce3acb3e5d3cd579d481befed58")]
 [assembly: System.Reflection.AssemblyProductAttribute("NapaMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NapaMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

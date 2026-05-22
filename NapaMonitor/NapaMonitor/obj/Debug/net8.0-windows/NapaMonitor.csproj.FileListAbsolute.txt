@@ -1,4 +1,3 @@
-C:\Users\Adelin\Desktop\Napa\napa_monitor\NapaMonitor\NapaMonitor\bin\Debug\net8.0-windows\appsettings.json
 C:\Users\Adelin\Desktop\Napa\napa_monitor\NapaMonitor\NapaMonitor\bin\Debug\net8.0-windows\NapaMonitor.exe
 C:\Users\Adelin\Desktop\Napa\napa_monitor\NapaMonitor\NapaMonitor\bin\Debug\net8.0-windows\NapaMonitor.deps.json
 C:\Users\Adelin\Desktop\Napa\napa_monitor\NapaMonitor\NapaMonitor\bin\Debug\net8.0-windows\NapaMonitor.runtimeconfig.json
